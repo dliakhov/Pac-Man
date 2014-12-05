@@ -1,0 +1,10 @@
+﻿<Window x:Class="OOP_courseProject.GameOverWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GameOver" Left="485" Top="275" Height="172" Width="501" WindowStyle="None" AllowsTransparency="True" Background="Transparent"  Opacity="1">
+    <Grid >
+        <TextBlock x:Name="txtBlock_text" HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" 
+    		Height="172" Width="502" FontFamily="Gabriola" FontSize="120" Background="#FF7A7A7A" Margin="0,0,-22,0" Text=" "/>
+
+    </Grid>
+</Window>
